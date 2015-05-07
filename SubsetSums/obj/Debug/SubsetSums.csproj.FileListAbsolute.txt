@@ -1,0 +1,6 @@
+C:\Users\Stanislav\documents\visual studio 2013\Projects\Homework040515\SubsetSums\bin\Debug\SubsetSums.exe.config
+C:\Users\Stanislav\documents\visual studio 2013\Projects\Homework040515\SubsetSums\obj\Debug\SubsetSums.exe
+C:\Users\Stanislav\documents\visual studio 2013\Projects\Homework040515\SubsetSums\obj\Debug\SubsetSums.pdb
+C:\Users\Stanislav\documents\visual studio 2013\Projects\Homework040515\SubsetSums\bin\Debug\SubsetSums.exe
+C:\Users\Stanislav\documents\visual studio 2013\Projects\Homework040515\SubsetSums\bin\Debug\SubsetSums.pdb
+C:\Users\Stanislav\documents\visual studio 2013\Projects\Homework040515\SubsetSums\obj\Debug\SubsetSums.csprojResolveAssemblyReference.cache
